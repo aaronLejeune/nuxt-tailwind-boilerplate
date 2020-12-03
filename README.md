@@ -1,4 +1,6 @@
-# nuxt-template
+# nuxt-tailwind-boilerplate
+## please make sure the latest version of npm is installed
+
 
 ## Build Setup
 
